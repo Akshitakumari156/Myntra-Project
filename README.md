@@ -1,4 +1,4 @@
-# Myntra StyleVerse: Your AI-Powered Fashion & Decor Companion 🛍️✨
+# Myntra StyleVerse: Your AI-Powered Fashion & Decor Companion from IntothealgoLand 🛍️✨
 
 ![Hackathon](https://img.shields.io/badge/Myntra%20HackerRamp-WeForShe-E9386A?style=for-the-badge)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
