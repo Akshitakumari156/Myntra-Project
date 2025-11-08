@@ -6,6 +6,13 @@
 An innovative solution for the **Myntra "HackerRamp WeForShe" hackathon**, designed to bring the experience of a personal stylist to every user's fingertips. Using cutting-edge Generative AI, Computer Vision, and multi-modal search, our mission is to make online shopping deeply personal, intuitive, and confidence-boosting.
 
 ---
+## 🚀 Live Demo
+
+The project is deployed and live on Render. You can view it here:
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Link-blue?style=for-the-badge&logo=render)](https://myntra-project-3.onrender.com)
+
+---
 ## 🚀 Demo Video
 
 Check out this quick video to see Myntra StyleVerse in action!
